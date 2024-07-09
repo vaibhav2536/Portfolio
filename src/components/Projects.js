@@ -20,13 +20,12 @@ export const Projects = () => {
       title: 'DocTalk',
       description: 'Design & Development',
       imgUrl: doctalkImg,
-      link: 'https://vaibhav2536.github.io/Password-Generator/'
+      link: 'https://github.com/vaibhav2536/DocTalk_Frontend'
     },
     {
       title: 'Natours',
       description: 'Design & Development',
-      imgUrl: natoursImg,
-      link: 'https://vaibhav2536.github.io/Password-Generator/'
+      imgUrl: natoursImg
     },
     {
       title: 'Social Media Web app',
