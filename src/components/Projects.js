@@ -10,6 +10,7 @@ import DrumkitImg from '../assets/img/drumkit 2.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import doctalkImg from '../assets/img/doctalk.png';
 import natoursImg from '../assets/img/natours.png';
+import pharmacyImg from '../assets/img/pharmacy.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -32,6 +33,12 @@ export const Projects = () => {
       description: 'Design & Development',
       imgUrl: socialImg,
       link: 'https://vaibhav2536.github.io/social-media-web-app/'
+    },
+    {
+      title: 'Pharmacy',
+      description: 'Design & Development',
+      imgUrl: pharmacyImg,
+      link: 'https://pharmacy-ml-1.onrender.com'
     },
     {
       title: 'Password Generator',
