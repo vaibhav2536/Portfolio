@@ -26,7 +26,8 @@ export const Projects = () => {
     {
       title: 'Natours',
       description: 'Design & Development',
-      imgUrl: natoursImg
+      imgUrl: natoursImg,
+      link: 'https://natours-jzik.onrender.com'
     },
     {
       title: 'Social Media Web app',
