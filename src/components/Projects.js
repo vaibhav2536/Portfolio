@@ -11,6 +11,8 @@ import colorSharp2 from '../assets/img/color-sharp2.png';
 import doctalkImg from '../assets/img/doctalk.png';
 import natoursImg from '../assets/img/natours.png';
 import pharmacyImg from '../assets/img/pharmacy.png';
+import madhyasthImg from '../assets/img/madhyasth.png';
+import notesImg from '../assets/img/notes.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -42,10 +44,22 @@ export const Projects = () => {
       link: 'https://pharmacy-ml-1.onrender.com'
     },
     {
+      title: 'Notes Maker',
+      description: 'Design & Development',
+      imgUrl: notesImg,
+      link: 'https://vaibhav2536.github.io/Notes-App/'
+    },
+    {
       title: 'Password Generator',
       description: 'Design & Development',
       imgUrl: passwordImg,
       link: 'https://vaibhav2536.github.io/Password-Generator/'
+    },
+    {
+      title: 'Madhyasth',
+      description: 'Design & Development',
+      imgUrl: madhyasthImg,
+      link: 'https://github.com/vaibhav2536/Madhyasth'
     },
     {
       title: 'Dice challenge',
