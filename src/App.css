@@ -432,8 +432,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .proj-imgbx a img {
   width: 100%;
-  height: auto;
+  height: 200px; /* Set a fixed height, adjust as needed */
+  object-fit: cover; /* Ensures the images cover the container without distortion */
 }
+
 
 .proj-imgbx a .proj-txtx {
   position: absolute;
@@ -462,7 +464,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .proj-imgbx:hover::before {
   height: 100%;
-}
+}-im
 
 .proj-txtx h4 {
   font-size: 30px;
