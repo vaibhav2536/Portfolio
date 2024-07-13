@@ -32,7 +32,7 @@ export const Projects = () => {
       link: 'https://natours-jzik.onrender.com'
     },
     {
-      title: 'Social Media Web app',
+      title: 'Social Media Web App',
       description: 'Design & Development',
       imgUrl: socialImg,
       link: 'https://vaibhav2536.github.io/social-media-web-app/'
