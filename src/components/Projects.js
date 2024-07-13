@@ -23,7 +23,7 @@ export const Projects = () => {
       title: 'DocTalk',
       description: 'Design & Development',
       imgUrl: doctalkImg,
-      link: 'https://github.com/vaibhav2536/DocTalk_Frontend'
+      link: 'https://vaibhav2536.github.io/Doctalk_Main_Frontend/'
     },
     {
       title: 'Natours',
